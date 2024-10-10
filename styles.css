@@ -1,0 +1,76 @@
+body{
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px 10px;
+    padding: 0px 10px;
+}
+h1{
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    background-color: orange;
+    
+}
+h2{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:orange;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px;
+    padding: 20px 10px;
+    text-align: center;
+}
+h3{
+    background-color: orange;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    text-align: center;
+}
+h5{
+    color:beige;
+    background-color: orange;
+    margin: 0px 0px 
+}
+p{
+    background-color:orange;
+}
+button{
+    color:white;
+    background-color: black;
+    border:none;
+}
+ul{
+    background-color: orange;
+    padding: 10px 20px;
+}
+header{
+    background-color:orange;
+    padding: 10px 20px;
+    text-align: center;
+
+}
+section{
+    display: flex;
+    flex-direction:column;
+    background-color:rgb(56, 197, 181);
+    margin:0px 0px;
+    padding:10px 20px;
+
+}
+div{
+    background-color: beige;
+    display:flex;
+    flex-direction: row;
+    margin: 0px 0px;
+    padding: 0px 20px;
+
+
+}
+footer{
+    background-color: rgb(56, 197, 181);
+    margin: 0px 0px;
+    padding: 10px 20px;
+}
+section.Coding-Languages li{
+background-color: rgb(56, 197, 181);
+}
